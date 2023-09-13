@@ -1,1 +1,62 @@
-
+[
+  {
+    "grupo": "Mamiferos",
+    "animais": [
+      {
+      "animal": "Cachorro",
+				"tipo": "Doméstico",
+				"imagem": "cachorro"
+      },
+      {
+      "animal": "Gato",
+				"tipo": "Doméstico",
+				"imagem": "gato"
+      },
+      {
+      "animal": "Tigre",
+				"tipo": "Selvagem",
+				"imagem": "tigre"
+      },
+    ]
+  },
+  {
+    "grupo": "Ovíparos",
+    "animais": [
+      {
+        {
+      "animal": "Papagaio",
+				"tipo": "Doméstico",
+				"imagem": "papagaio"
+      },
+      {
+      "animal": "Pinguim",
+				"tipo": "Selvagem",
+				"imagem": "pinguim"
+      },
+      {
+      "animal": "Arara",
+				"tipo": "Selvagem",
+				"imagem": "arara"
+      },
+      }
+    ]
+  },
+  {
+    "grupo:" "Mamiferos que botam ovos",
+    "animais:" [
+      {
+    {
+      "animal": "Ornitorrinco",
+				"tipo": "Selvagem",
+				"imagem": "ornitorrinco"
+      },
+    {
+      "animal": "Equidnas",
+				"tipo": "Selvagem",
+				"imagem": "equidna"
+      },
+    ]
+  }
+  }
+  }
+]
